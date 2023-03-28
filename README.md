@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Creatio<br>🌱 I’m currently learning Angular and Docker<br>💬 Ask me about C#
+🔭 I’m currently working on Creatio<br>🌱 I’m currently learning Angular and Docker<br>💬 Ask me about C#/.NET
 
 
 ## 🌐 Socials:
